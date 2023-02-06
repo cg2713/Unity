@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 697ac448071568440b8a8691ca07b4e4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Bar: {instanceID: 0}
+  - Beep: {instanceID: 0}
+  - Status: {instanceID: 0}
+  - BarC: {fileID: 130092223870809954, guid: 68386281e79abfa48b732c8a84da018a, type: 3}
+  - script: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
